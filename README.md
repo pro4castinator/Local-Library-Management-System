@@ -55,5 +55,44 @@ This web application serves as a local library management system, enabling users
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/local-library-management-system.git
+   git clone https://github.com/pro4castinator/local-library-management-system.git
+
+2. Install Backend Dependencies:
+
+   ```bash
+   cd local-library-management-system
+   cd Backend
+   npm install
+
+3. Set Up Environment Variables:
+
+Create a .env file in the root directory and add necessary variables like MongoDB URI, JWT secret, etc.
+
+4. Start the Backend Server:
+
+   ```bash
+   npm start
+
+5. Install Frontend Dependencies:
+
+   ```bash
+   cd ..
+   cd frontend
+   npm install
+
+6. Start the Frontend:
+
+   ```bash
+   npm start
+
+7. Access the Application:
+
+Open a web browser and visit http://127.0.0.1:5173/ to access the application locally.
+
+   
+
+
+
+
+
 
