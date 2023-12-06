@@ -66,7 +66,7 @@ This web application serves as a local library management system, enabling users
 
 3. Set Up Environment Variables:
 
-Create a .env file in the root directory and add necessary variables like MongoDB URI, JWT secret, etc.
+- Create a .env file in the root directory and add necessary variables like MongoDB URI, JWT secret, etc.
 
 4. Start the Backend Server:
 
@@ -87,7 +87,7 @@ Create a .env file in the root directory and add necessary variables like MongoD
 
 7. Access the Application:
 
-Open a web browser and visit http://127.0.0.1:5173/ to access the application locally.
+- Open a web browser and visit http://127.0.0.1:5173/ to access the application locally.
 
    
 
