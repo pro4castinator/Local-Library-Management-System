@@ -55,7 +55,7 @@ This web application serves as a local library management system, enabling users
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pro4castinator/local-library-management-system.git
+   git clone https://github.com/pro4castinator/Local-Library-Management-System.git
 
 2. Install Backend Dependencies:
 
